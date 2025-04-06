@@ -7,4 +7,4 @@ This package is shared across IndieTrack projects via PNPM workspaces or Git sub
 
 ```bash
 pnpm install
-pnpm dev
+pnpm run local
